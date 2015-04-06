@@ -9,7 +9,7 @@ $(document).ready(function(){
 			title:"Big Buck Bunny Trailer",
 			artist:"Blender Foundation",
 			free:true,
-			m4v:"http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v",
+			m4v:"https://www.youtube.com/watch?v=hVlPoozmyzw&list=PL2FC22FF3A0321A98",
 			ogv:"http://www.jplayer.org/video/ogv/Big_Buck_Bunny_Trailer.ogv",
 			webmv: "http://www.jplayer.org/video/webm/Big_Buck_Bunny_Trailer.webm",
 			poster:"http://www.jplayer.org/video/poster/Big_Buck_Bunny_Trailer_480x270.png"
